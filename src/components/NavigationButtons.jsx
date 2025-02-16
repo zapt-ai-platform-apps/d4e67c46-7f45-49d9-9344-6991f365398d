@@ -23,7 +23,9 @@ export default function NavigationButtons({ goToPrevious, goToNext, disablePrevi
           whileTap={{ scale: 0.95 }}
           className="px-6 py-3 bg-gray-800 rounded-xl font-display text-lg flex items-center gap-2 disabled:opacity-50"
         >
-          <span className="text-2xl">←</span>
+          <span className="text-2xl bg-gradient-to-r from-cosmic-100 to-white bg-clip-text text-transparent">
+            ←
+          </span>
           <span className="bg-gradient-to-r from-cosmic-100 to-white bg-clip-text text-transparent">
             Previous
           </span>
@@ -39,7 +41,9 @@ export default function NavigationButtons({ goToPrevious, goToNext, disablePrevi
           <span className="bg-gradient-to-br from-white to-cosmic-100 bg-clip-text text-transparent">
             Next
           </span>
-          <span className="text-2xl">→</span>
+          <span className="text-2xl bg-gradient-to-br from-white to-cosmic-100 bg-clip-text text-transparent">
+            →
+          </span>
         </motion.button>
       </div>
     </div>
