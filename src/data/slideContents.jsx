@@ -1,5 +1,6 @@
 import React from "react";
-export const slidesPart2 = [
+
+export const slideContents = [
   {
     title: "Business Model & Revenue Streams: Freemium to Enterprise",
     content: (
