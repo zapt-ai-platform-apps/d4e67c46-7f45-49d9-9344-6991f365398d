@@ -22,20 +22,23 @@ export default function PitchDeck() {
   };
 
   return (
-    <div className="h-screen flex flex-col justify-between p-6">
+    <div className="flex-grow flex flex-col justify-between p-6">
       <div className="flex flex-col items-center justify-center flex-grow h-full">
         <h2 className="text-5xl font-extrabold mb-8 text-center">
           {slides[currentSlide].title}
         </h2>
-        <div key={currentSlide} className="transition-opacity duration-500 ease-in-out animate-fadeIn text-center max-w-3xl">
+        <div
+          key={currentSlide}
+          className="transition-opacity duration-500 ease-in-out animate-fadeIn text-center max-w-3xl"
+        >
           {slides[currentSlide].content}
         </div>
       </div>
-      <NavigationButtons 
-        goToPrevious={goToPrevious} 
-        goToNext={goToNext} 
-        disablePrevious={currentSlide === 0} 
-        disableNext={currentSlide === slides.length - 1} 
+      <NavigationButtons
+        goToPrevious={goToPrevious}
+        goToNext={goToNext}
+        disablePrevious={currentSlide === 0}
+        disableNext={currentSlide === slides.length - 1}
       />
       <footer className="mt-8 text-center">
         <a

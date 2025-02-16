@@ -8,7 +8,7 @@ export default function App() {
   }, []);
 
   return (
-    <div className="min-h-screen flex flex-col text-gray-900">
+    <div className="h-screen flex flex-col text-gray-900">
       <Header />
       <PitchDeck />
     </div>
