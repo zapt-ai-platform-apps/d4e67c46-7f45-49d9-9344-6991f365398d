@@ -29,7 +29,7 @@ export default function PitchDeck() {
         </h2>
         <div
           key={currentSlide}
-          className="transition-opacity duration-500 ease-in-out animate-fadeIn max-w-3xl bg-gradient-to-br from-white to-gray-50 p-10 rounded-2xl shadow-xl border border-gray-200 mx-auto text-left"
+          className="transition-opacity duration-700 ease-in-out animate-fadeIn max-w-3xl bg-gradient-to-br from-white to-gray-50 p-10 rounded-2xl shadow-xl border border-gray-200 mx-auto text-left"
         >
           {slides[currentSlide].content}
         </div>

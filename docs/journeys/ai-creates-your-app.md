@@ -1,11 +1,10 @@
 # AI Creates Your App
 
-In this journey, discover how ZAPT's advanced AI turns your description into working code.
+In this journey, explore how ZAPT leverages artificial intelligence to revolutionize app development – removing complexity and speeding up innovation.
 
-1. After you submit your update, the AI begins processing your request.
-2. The system analyzes your input and identifies the required features.
-3. Automated code generation takes place, integrating essential front-end and back-end components.
-4. Preview the generated app to verify it meets your expectations.
-5. If necessary, refine your input and resubmit until the generated app is perfect.
+## Steps
 
-This process ensures that your ideas are translated efficiently into a fully functional app without any manual coding.
+1. **Automated Code Generation**: See how our AI writes and integrates code automatically, making development faster and simpler.
+2. **Embedded Critical Features**: Understand how features like database integration, error monitoring, and analytics are built-in.
+3. **Effortless Customization**: Learn how a user-friendly design interface lets you customize and prototype without deep technical knowledge.
+4. **Real-World Application**: Discover how AI drives the creation of robust, scalable, production‐ready apps.
