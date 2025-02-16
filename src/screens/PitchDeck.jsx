@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import slides from '../data/slides';
+import slides from '../data/slides.jsx';
 import NavigationButtons from '../components/NavigationButtons';
 
 export default function PitchDeck() {
