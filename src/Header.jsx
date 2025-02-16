@@ -11,12 +11,6 @@ export default function Header() {
         />
         <h1 className="text-2xl font-bold">ZAPT</h1>
       </div>
-      <button
-        onClick={() => console.log('Login clicked')}
-        className="cursor-pointer px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
-      >
-        Login
-      </button>
     </header>
   );
 }

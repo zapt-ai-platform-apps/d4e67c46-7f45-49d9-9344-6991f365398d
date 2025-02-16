@@ -1,15 +1,11 @@
-# ZAPT pitch
+# ZAPT Pitch – Visionary Pitch Deck
 
-ZAPT is an innovative app creation platform that empowers anyone to build powerful, AI‐driven applications without writing a single line of code. With ZAPT, you can bring your ideas to life quickly and effortlessly – from productivity tools to complex, scalable solutions.
+ZAPT Pitch is a visionary pitch deck designed to communicate the transformative impact of the ZAPT platform. The app guides you through a multi‑screen presentation that explains the challenges of traditional app development, the breakthrough achieved with AI‑powered innovation, and the future vision for technology.
 
 ## User Journeys
 
-1. [Describe Your Update](docs/journeys/describe-your-update.md) - Provide the details for your app update using our intuitive interface.
-2. [AI Creates Your App](docs/journeys/ai-creates-your-app.md) - Watch as our advanced AI transforms your ideas into complete, deployable code.
-3. [Launch with Confidence](docs/journeys/launch-with-confidence.md) - Deploy and manage your app seamlessly with robust built-in features.
-
-## Overview
-
-ZAPT abstracts away all the technical complexities of app development by automatically integrating databases, back-end functions, error monitoring, web analytics, customer support, and more into every app. This ensures that every solution you build is not only functional but also robust and scalable.
-
-For more details on each journey, please refer to the individual documents in the [docs/journeys](docs/journeys/) directory.
+1. [Welcome & Vision](docs/journeys/welcome-vision.md) – An introduction that sets the stage for ZAPT’s revolutionary outlook.
+2. [The Challenge](docs/journeys/the-challenge.md) – Discover the limitations of conventional technology and why change is needed.
+3. [The Breakthrough](docs/journeys/the-breakthrough.md) – Learn how ZAPT automates app creation and delivers a fully product‑ready experience.
+4. [Our Journey](docs/journeys/our-journey.md) – A step‑by‑step insight into the pivotal stages of innovation.
+5. [Join the Revolution](docs/journeys/join-the-revolution.md) – A call to action for visionaries to embrace the future of app creation.
