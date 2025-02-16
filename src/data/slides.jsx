@@ -6,10 +6,10 @@ const slides = [
     content: (
       <div>
         <p className="text-xl mb-4">
-          Welcome to ZAPT – Empowering a New Era of Innovation.
+          Welcome to ZAPT – Where Innovation Meets Execution.
         </p>
         <p className="text-lg">
-          Experience a visionary shift where cutting-edge technology meets limitless creativity.
+          Unleash your creativity with a platform designed to transform ideas into fully-realized apps.
         </p>
       </div>
     ),
@@ -19,10 +19,10 @@ const slides = [
     content: (
       <div>
         <p className="text-xl mb-4">
-          Before humans could read and write, our understanding was limited by basic survival instincts.
+          Outdated methods and complex systems drain your time.
         </p>
         <p className="text-lg">
-          Even after the invention of writing, progress was reserved for a select few. Today, technology remains confined within the boundaries of conventional development.
+          Traditional app development stifles innovation, leaving brilliant ideas trapped by technical constraints.
         </p>
       </div>
     ),
@@ -32,10 +32,10 @@ const slides = [
     content: (
       <div>
         <p className="text-xl mb-4">
-          ZAPT revolutionizes app creation by automating the integration of databases, back-end functions, error monitoring, and web analytics.
+          Experience the breakthrough: AI-powered automation at its finest.
         </p>
         <p className="text-lg">
-          It’s not just about writing code—it’s about delivering a fully product‐ready experience seamlessly.
+          ZAPT seamlessly integrates advanced technologies—from databases to error monitoring—empowering you to launch apps faster than ever.
         </p>
       </div>
     ),
@@ -46,16 +46,16 @@ const slides = [
       <div>
         <ol className="list-decimal list-inside text-lg space-y-2">
           <li>
-            <strong>The Limitation:</strong> Recognize the constraints of traditional tech creation.
+            <strong>Break the Code Barrier:</strong> Overcome technical limits with smart automation.
           </li>
           <li>
-            <strong>The Breakthrough:</strong> Embrace AI-powered innovation that redefines possibilities.
+            <strong>Ignite Creativity:</strong> Fuel your ideas with AI-driven insights.
           </li>
           <li>
-            <strong>The Ecosystem:</strong> Integrate every aspect of app development into a cohesive platform.
+            <strong>Build with Confidence:</strong> Enjoy seamless integration of all app components.
           </li>
           <li>
-            <strong>The Future:</strong> Envision a world where every visionary transforms technology.
+            <strong>Embrace the Future:</strong> Lead the innovation revolution.
           </li>
         </ol>
       </div>
@@ -66,10 +66,10 @@ const slides = [
     content: (
       <div>
         <p className="text-xl mb-4">
-          Transform the landscape of innovation. ZAPT empowers visionaries to redefine technology.
+          Step into the future of app creation.
         </p>
         <p className="text-lg">
-          Discover the future of app creation and be part of the revolution.
+          Join ZAPT today and redefine the digital landscape with unparalleled innovation.
         </p>
       </div>
     ),
