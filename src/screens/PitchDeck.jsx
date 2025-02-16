@@ -22,14 +22,14 @@ export default function PitchDeck() {
   };
 
   return (
-    <div className="flex-grow flex flex-col justify-between p-6">
+    <div className="flex-grow flex flex-col justify-between p-6 min-h-screen">
       <div className="flex flex-col items-center justify-center flex-grow h-full">
         <h2 className="text-5xl font-extrabold mb-8 text-center">
           {slides[currentSlide].title}
         </h2>
         <div
           key={currentSlide}
-          className="transition-opacity duration-500 ease-in-out animate-fadeIn text-center max-w-3xl"
+          className="transition-opacity duration-500 ease-in-out animate-fadeIn max-w-3xl bg-white p-8 rounded-lg shadow-lg mx-auto text-left"
         >
           {slides[currentSlide].content}
         </div>
