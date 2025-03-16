@@ -2,7 +2,6 @@ import React, { useEffect } from 'react';
 import Header from './components/Header';
 import PitchDeck from './screens/PitchDeck';
 import ZaptBadge from './components/ZaptBadge';
-import './animations.css';
 
 export default function App() {
   useEffect(() => {
