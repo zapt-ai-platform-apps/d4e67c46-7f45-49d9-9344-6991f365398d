@@ -68,9 +68,9 @@ export default function PitchDeck() {
                 whileHover={{ boxShadow: "0 0 20px rgba(99, 102, 241, 0.2)" }}
                 transition={{ duration: 0.3 }}
               >
-                {/* Slide title */}
+                {/* Slide title with improved readability */}
                 <motion.h2 
-                  className="font-display text-2xl sm:text-3xl md:text-4xl mb-6 md:mb-8 text-gradient-nebula text-shadow-sm"
+                  className="font-display text-2xl sm:text-3xl md:text-4xl mb-6 md:mb-8 bg-gradient-to-r from-white via-nebula-300 to-white bg-clip-text text-transparent font-bold text-shadow-sm"
                   initial={{ opacity: 0, y: -20 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.5, delay: 0.2 }}

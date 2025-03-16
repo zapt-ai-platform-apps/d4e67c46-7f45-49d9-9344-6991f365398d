@@ -39,14 +39,14 @@ export const slideContents = [
             className="w-full max-h-[300px] sm:max-h-96 object-cover rounded-xl mb-6 shadow-xl"
             data-image-request="scalable business model infographic"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-xl"></div>
+          <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent rounded-xl"></div>
         </motion.div>
         
-        <motion.p variants={itemVariants} className="text-xl mb-6 text-gray-100 font-medium leading-relaxed">
+        <motion.p variants={itemVariants} className="text-xl md:text-2xl mb-6 text-white font-semibold leading-relaxed">
           Scalable, Sustainable, and Strategic
         </motion.p>
         
-        <motion.p variants={itemVariants} className="text-lg text-gray-300 leading-relaxed">
+        <motion.p variants={itemVariants} className="text-lg md:text-xl text-gray-200 leading-relaxed">
           With a flexible freemium model that converts engaged users into premium subscribers, ZAPT lays the foundation for sustainable growth, reinvesting profits back into continuous innovation.
         </motion.p>
       </motion.div>
@@ -67,14 +67,14 @@ export const slideContents = [
             className="w-full max-h-[300px] sm:max-h-96 object-cover rounded-xl mb-6 shadow-xl"
             data-image-request="growth chart with upward trend"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-xl"></div>
+          <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent rounded-xl"></div>
         </motion.div>
         
-        <motion.p variants={itemVariants} className="text-xl mb-6 text-gray-100 font-medium leading-relaxed">
+        <motion.p variants={itemVariants} className="text-xl md:text-2xl mb-6 text-white font-semibold leading-relaxed">
           Early Success and Continuous Growth
         </motion.p>
         
-        <motion.p variants={itemVariants} className="text-lg text-gray-300 leading-relaxed">
+        <motion.p variants={itemVariants} className="text-lg md:text-xl text-gray-200 leading-relaxed">
           Our platform has already empowered a growing community of innovators. Rapid user adoption and glowing testimonials validate the market need for a complete, accessible app development solution.
         </motion.p>
       </motion.div>
@@ -95,14 +95,14 @@ export const slideContents = [
             className="w-full max-h-[300px] sm:max-h-96 object-cover rounded-xl mb-6 shadow-xl"
             data-image-request="side-by-side comparison showing ZAPT advantages"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-xl"></div>
+          <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent rounded-xl"></div>
         </motion.div>
         
-        <motion.p variants={itemVariants} className="text-xl mb-6 text-gray-100 font-medium leading-relaxed">
+        <motion.p variants={itemVariants} className="text-xl md:text-2xl mb-6 text-white font-semibold leading-relaxed">
           Removing the Tech Barrier Forever
         </motion.p>
         
-        <motion.p variants={itemVariants} className="text-lg text-gray-300 leading-relaxed">
+        <motion.p variants={itemVariants} className="text-lg md:text-xl text-gray-200 leading-relaxed">
           Unlike traditional platforms that focus solely on code generation, ZAPT delivers a complete, production‐ready product—including all the critical extras—allowing visionaries to concentrate on creativity, strategy, and market expansion.
         </motion.p>
       </motion.div>
@@ -123,14 +123,14 @@ export const slideContents = [
             className="w-full max-h-[300px] sm:max-h-96 object-cover rounded-xl mb-6 shadow-xl"
             data-image-request="diverse team collaborating on technology"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-xl"></div>
+          <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent rounded-xl"></div>
         </motion.div>
         
-        <motion.p variants={itemVariants} className="text-xl mb-6 text-gray-100 font-medium leading-relaxed">
+        <motion.p variants={itemVariants} className="text-xl md:text-2xl mb-6 text-white font-semibold leading-relaxed">
           Your Invitation to the Future of Innovation
         </motion.p>
         
-        <motion.p variants={itemVariants} className="text-lg text-gray-300 leading-relaxed">
+        <motion.p variants={itemVariants} className="text-lg md:text-xl text-gray-200 leading-relaxed">
           Partner with ZAPT and be part of a groundbreaking movement that transforms the tech landscape, empowers creators, and democratizes innovation on a global scale.
         </motion.p>
       </motion.div>

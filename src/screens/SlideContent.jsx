@@ -23,7 +23,7 @@ const SlideContent = ({ content }) => {
         ) : content}
       </div>
       
-      {/* Enhance images within content */}
+      {/* Enhanced text readability styles */}
       <style jsx global>{`
         .slide-content img {
           border-radius: 1rem;
@@ -38,12 +38,16 @@ const SlideContent = ({ content }) => {
         }
         
         .slide-content p {
-          line-height: 1.8;
-          margin-bottom: 1.25rem;
+          line-height: 1.9;
+          margin-bottom: 1.5rem;
+          letter-spacing: 0.01em;
+          text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
         }
         
         .slide-content p:first-of-type {
-          font-weight: 500;
+          font-weight: 600;
+          letter-spacing: 0.015em;
+          text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
         }
       `}</style>
     </motion.div>

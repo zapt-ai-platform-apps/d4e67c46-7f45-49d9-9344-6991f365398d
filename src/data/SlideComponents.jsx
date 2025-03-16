@@ -35,14 +35,14 @@ export const VisionSlide = () => (
         className="w-full max-h-[300px] sm:max-h-96 object-cover rounded-xl mb-6 shadow-xl"
         data-image-request="futuristic technology empowering human potential"
       />
-      <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-xl"></div>
+      <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent rounded-xl"></div>
     </motion.div>
     
-    <motion.p variants={itemVariants} className="text-xl mb-6 text-gray-100 font-medium leading-relaxed">
+    <motion.p variants={itemVariants} className="text-xl md:text-2xl mb-6 text-white font-semibold leading-relaxed">
       Before humans could read and write, our potential was limited. Today, ZAPT empowers anyone to transcend technical barriers and create groundbreaking apps with ease.
     </motion.p>
     
-    <motion.p variants={itemVariants} className="text-lg text-gray-300 leading-relaxed">
+    <motion.p variants={itemVariants} className="text-lg md:text-xl text-gray-200 leading-relaxed">
       Our platform reimagines digital innovation by providing a complete suite of tools – from databases and back-end functions to error monitoring, web analytics, and customer support. We enable creators to build fully featured products without the traditional complexities of code.
     </motion.p>
   </motion.div>
@@ -61,14 +61,14 @@ export const MarketSlide = () => (
         className="w-full max-h-[300px] sm:max-h-96 object-cover rounded-xl mb-6 shadow-xl"
         data-image-request="expanding digital market opportunities graph"
       />
-      <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-xl"></div>
+      <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent rounded-xl"></div>
     </motion.div>
     
-    <motion.p variants={itemVariants} className="text-xl mb-6 text-gray-100 font-medium leading-relaxed">
+    <motion.p variants={itemVariants} className="text-xl md:text-2xl mb-6 text-white font-semibold leading-relaxed">
       The digital transformation wave is unstoppable.
     </motion.p>
     
-    <motion.p variants={itemVariants} className="text-lg text-gray-300 leading-relaxed">
+    <motion.p variants={itemVariants} className="text-lg md:text-xl text-gray-200 leading-relaxed">
       ZAPT captures this momentum by democratizing app creation, enabling a vast market of innovators to launch impactful products without traditional tech constraints.
     </motion.p>
   </motion.div>
@@ -87,14 +87,14 @@ export const AICoreSlide = () => (
         className="w-full max-h-[300px] sm:max-h-96 object-cover rounded-xl mb-6 shadow-xl"
         data-image-request="neural network AI system processing data"
       />
-      <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-xl"></div>
+      <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent rounded-xl"></div>
     </motion.div>
     
-    <motion.p variants={itemVariants} className="text-xl mb-6 text-gray-100 font-medium leading-relaxed">
+    <motion.p variants={itemVariants} className="text-xl md:text-2xl mb-6 text-white font-semibold leading-relaxed">
       AI-Powered Automation That Integrates Every Essential Element
     </motion.p>
     
-    <motion.p variants={itemVariants} className="text-lg text-gray-300 leading-relaxed">
+    <motion.p variants={itemVariants} className="text-lg md:text-xl text-gray-200 leading-relaxed">
       ZAPT's advanced AI not only writes code but also embeds critical features such as databases, security protocols, and analytics. This streamlines development and delivers production-ready solutions effortlessly.
     </motion.p>
   </motion.div>
@@ -113,14 +113,14 @@ export const EcosystemSlide = () => (
         className="w-full max-h-[300px] sm:max-h-96 object-cover rounded-xl mb-6 shadow-xl"
         data-image-request="interconnected digital ecosystem diagram"
       />
-      <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-xl"></div>
+      <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent rounded-xl"></div>
     </motion.div>
     
-    <motion.p variants={itemVariants} className="text-xl mb-6 text-gray-100 font-medium leading-relaxed">
+    <motion.p variants={itemVariants} className="text-xl md:text-2xl mb-6 text-white font-semibold leading-relaxed">
       Integrated Tools for a Complete Product Experience
     </motion.p>
     
-    <motion.p variants={itemVariants} className="text-lg text-gray-300 leading-relaxed">
+    <motion.p variants={itemVariants} className="text-lg md:text-xl text-gray-200 leading-relaxed">
       Our platform goes further by automatically including database integration, back-end functions, error monitoring, analytics, and customer support – ensuring your app is robust and market‐ready from day one.
     </motion.p>
   </motion.div>
